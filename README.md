@@ -8,7 +8,7 @@
 - Intellij Idea или любая другая IDE от JetBrains
 - аккаунт на Github
 1. Делаем форк данного репозитория:
-![](img/step0.png)
+![](img/andreev.png)
 
 2. Скачиваем архив форкнутого проекта:
 
